@@ -1,0 +1,7 @@
+"0","# Plots the 10 counties with highest mortality mate"
+"0","df1 <- df %>%"
+"0","  arrange(Death_Rate) %>%"
+"0","  tail(n=10) "
+"2","Error in df %>% arrange(Death_Rate) %>% tail(n = 10) : 
+  could not find function ""%>%""
+"

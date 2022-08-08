@@ -1,0 +1,5 @@
+File name 'API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2445719.csv' contains a dataset which has 
+GDP of countries by year. Source is https://data.worldbank.org/indicator/NY.GDP.MKTP.CD,  had to download because direct link to csv downloads a zip file.
+
+To get file working in with the read_csv function, had to remove first four rows. 
+Saved this edited file as 'countries_gdp.csv'.
